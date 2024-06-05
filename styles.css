@@ -1,0 +1,24 @@
+.first-container{
+    background: rgb(456, 450, 123);
+    height: 200px;
+    width: 300px;
+    position: relative;
+    
+}
+.second-container{
+    background: rgb(000, 600, 870);
+    height: 200px;
+    width: 300px;
+
+}
+.third-container{
+    background: rgb(456, 530, 000);
+    height: 200px;
+    width: 300px;
+    position: relative;
+}
+.fourth-container{
+    background: rgb(456, 000, 129);
+    height: 200px;
+    width: 300px;
+}
